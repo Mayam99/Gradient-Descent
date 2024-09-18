@@ -1,4 +1,4 @@
-##Car Prices Prediction Using Linear Regression
+Car Prices Prediction Using Linear Regression
 
 This repository contains the implementation of a Linear Regression model to predict car prices based on various features from the Car Prices Prediction Dataset. The project aims to develop a predictive model using Gradient Descent and analyze how different attributes such as Make, Model, Year, Mileage, and Condition influence the price of a car.
 
